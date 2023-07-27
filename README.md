@@ -1,1 +1,1 @@
-My first readme for the full stack developing program
+My first readme for the full stack program
